@@ -1,0 +1,61 @@
+.box1{
+  width:200px;
+  height:100px;
+  margin-top:30px;
+  margin-right:2px;
+  background-color:lightblue;
+  float:left;
+  text-align: center;
+}
+
+.box1:hover{
+  transform:scale(1.2);
+  transition: all 0.8s ease-in-out;
+}
+
+.box2{
+  width:150px;
+  height:300px;
+  margin-top:30px;
+  margin-right:2px;
+  background-color:lightgreen;
+  float:left;
+  text-align: center;
+
+}
+
+.box2:hover{
+  transform:scale(1.2);
+  transition: all 0.8s ease-in-out;
+}
+
+.box3{
+  width:200px;
+  height:100px;
+  margin-top:30px;
+  margin-right:2px;
+  background-color:darkgrey;
+  float:left;
+  text-align: center;
+}
+
+.box3:hover{
+  transform:scale(1.2);
+  transition: all 0.8s ease-in-out;
+}
+
+.box4{
+  width:200px;
+  height:100px;
+  margin-top:30px;
+  margin-right:2px;
+  background-color:deepskyblue;
+  float:left;
+  text-align: center;
+}
+
+.box4:hover{
+  transform:scale(1.2);
+  transition: all 0.8s ease-in-out;
+}
+
